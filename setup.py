@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="yaspeak",
-    version="0.0.1",
+    version="0.0.2",
     author="dmitrijkotov",
     author_email="53375304+hugecatdev@users.noreply.github.com",
     description="Python wrapper for Yandex text voiceover",
